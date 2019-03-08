@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private String version = "version0";
+    private String version1 = "version1";
 
 
     @Override
